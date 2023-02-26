@@ -1,0 +1,7 @@
+	
+Important Links : Polygon Scan Apis.	
+	
+DDZ3YDH9HWYIPBPJDVU6HCBQJWVSU4DG28
+https://api.polygonscan.com/api?module=account&action=balance&address=0xde0b295669a9fd93d5f28d9ec85e40f4cb697bae&tag=latest&apikey=DDZ3YDH9HWYIPBPJDVU6HCBQJWVSU4DG28
+
+https://api-testnet.polygonscan.com/api?module=account&action=txlist&address=%CONTRACT%&startblock=0&endblock=99999999&sort=asc&apikey=%APIKEY%

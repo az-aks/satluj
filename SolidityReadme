@@ -1,0 +1,32 @@
+1)What is a BlockChain. 
+
+BlockChain is collection of Blocks. 
+
+2) Blocks - who makes them ? and What does block chain consist of ? 
+   Blocks are made by Nodes. 
+
+   Each nodes runs a whole copy of the blockchain and they reach CONSENSUS among themselves to create a   
+   new block having collection of transactions over time.
+
+
+
+3).   What is consensus ? .. Consesus is formal process of creating an block from new Txns. 
+  Much like elections that happen every 4 years to forma government. 
+   
+So Block formation is a process of forming of a single block  by NODEs that gets added to the tip of the block chain.
+
+
+
+4). Consensus .. what ..?
+
+   Now because block chain have very important property of being decentralized, meaning no single goverment can ctrol them 
+   So every node forms a Block. And Every proposes that their block gets to the tip of the blockchain as there is an financial 
+   incentive if their block gets elected they  rewards toekns for their (hard) work in forming the block.
+
+
+5) Bitcoin Rewards , Ethereum Rewards etc. 
+
+------------TBD ----
+
+6. Addresses - their properties 
+     Ethereum Addresses : 
